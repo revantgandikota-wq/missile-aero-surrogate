@@ -1,0 +1,11 @@
+*.su2
+*.msh
+*.cgns
+*.vtu
+*.vtk
+*.dat
+*.pw
+restart_flow*
+flow.meta
+venv/
+__pycache__/
